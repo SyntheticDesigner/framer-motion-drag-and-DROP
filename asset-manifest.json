@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/framer-motion-drag-and-DROP/static/css/main.1cb1ae68.css",
+    "main.js": "/framer-motion-drag-and-DROP/static/js/main.1eac6240.js",
+    "static/js/787.87663213.chunk.js": "/framer-motion-drag-and-DROP/static/js/787.87663213.chunk.js",
+    "index.html": "/framer-motion-drag-and-DROP/index.html",
+    "main.1cb1ae68.css.map": "/framer-motion-drag-and-DROP/static/css/main.1cb1ae68.css.map",
+    "main.1eac6240.js.map": "/framer-motion-drag-and-DROP/static/js/main.1eac6240.js.map",
+    "787.87663213.chunk.js.map": "/framer-motion-drag-and-DROP/static/js/787.87663213.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb1ae68.css",
+    "static/js/main.1eac6240.js"
+  ]
+}
